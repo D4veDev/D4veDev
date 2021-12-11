@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @D4veDev
 - 👀 I’m interested in programming / martial arts
-- 🌱 I’m currently learning C#, Unity
+- 🌱 I’m currently learning Webdevelopement, React
 - 📫 How to reach me: mail.davedev@gmail.com
