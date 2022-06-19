@@ -29,7 +29,7 @@
 
 I am a High School Student passionate about programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
-- :telescope: I’m currently persuing my british A-Levels in a boarding school
+- :telescope: I’m currently pursuing my british A-Levels in a boarding school
 
 - :seedling: Looks forward to work in the Tech-Industry
 
