@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.instagram.com/official.daveee/">
+    <a href="https://www.instagram.com/davidbreyr/">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UClKUxEDrlwhi82bjeIvCyjw">
