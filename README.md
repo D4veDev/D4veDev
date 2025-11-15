@@ -26,14 +26,14 @@
 ### :woman_technologist: About Me :
 </div>
 
-I am a High School Student passionate about programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I’m David — Business Informatics student at HTWG Konstanz, moving in the space between tech, finance, and entrepreneurship.
 
-- :telescope: I’m currently pursuing my british A-Levels in a boarding school
+🔭 Diving deep into AI, software development, and finance.
 
-- :seedling: Looks forward to work in the Tech-Industry
+💡 Always learning, iterating, and pushing ideas until they click.
 
-- :zap: In my free time, I work on programming projects and learn new concepts/technologies
-  
+⚡ Focused on tech-driven products that actually solve problems and can scale.
+
 ---
 <div align="center">
   
